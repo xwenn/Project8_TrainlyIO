@@ -53,6 +53,7 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       You will see the information about the courses you have completed, are enrolling and are interested in, including the course Id, name, primary topic, secondary topic and course rating.
       
+      
       (2) Enter 2 if you want to search the courses within a keyword.
       
       You will be asked to enter the keyword you want to search.
@@ -65,8 +66,8 @@ Now, you have entered the main menu and you will have a set of options to choose
 
       (3) Enter 3 if you want to enroll a course. 
       
-      You will be asked to enter the course Id.
-      
+      You will be asked to enter the course Id you want to enroll.
+     
             For example, you would like to join "JavaScript: Understanding the Weird Parts" according to what you have just search, enter 3 (the course Id of the course). Then you will be asked to enter your payment code, entering date and time. You are supposed to write in the format it asks, or it will show Error.
             
       If you enter the course you have enrolled, it will show "You have enrolled in this course”. 
