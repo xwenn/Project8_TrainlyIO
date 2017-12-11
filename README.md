@@ -198,5 +198,7 @@ Once in the main menu you will have a set of options to choose from.
       
       Then you will see your user Id and student Id.
       
-      
 
+
+5. Enter 'q'
+      Enter q if you want to quit the program.
