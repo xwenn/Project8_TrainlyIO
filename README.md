@@ -30,3 +30,6 @@ This project is intended for potential investors in the Trainly.io App Store, as
 5. Type ``jave -jar trainly.jar``,
 
 6. You are now in the Main Menu
+
+
+## Run the Main Menu
