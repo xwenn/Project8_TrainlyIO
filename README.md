@@ -37,7 +37,7 @@ Trainly.io utilizes a MySQL-based Relational Database Management System (RDBMS).
 
 1. Download ```trainly.zip``` file, decompress it, and save it into a certain folder (eg. Downloads)
 
-2. Open the terminal, and navigate to the directory where you saved the file by typeing ``cd Downloads ``
+2. Open the terminal, and navigate to the directory where you saved the file by typing ``cd Downloads ``
 
 3. Type ``cd trainly ``
 
