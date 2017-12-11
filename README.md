@@ -54,10 +54,8 @@ Now, you have entered the main menu and you will have a set of options to choose
       You will see the information about the courses you have completed, are enrolling and are interested in, including the course Id, name, primary topic, secondary topic and course rating.
       
       (2) Enter 2 if you want to search the courses within a keyword.
-      
-      (2) Enter 2 if you want to search the courses within a keyword. 
       
-      You will be asked to enter the keyword you want to search.
+      You will be asked to enter the keyword you want to search.
       
             For example, "java" is what you are interested in. Then just type "java".
             
