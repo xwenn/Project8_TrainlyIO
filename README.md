@@ -54,15 +54,15 @@ Once in the main menu you will have a set of options to choose from.
 
 **1. Enter "1"** 
       
-   You are now in the Student Menu, and you are asked to enter your Student ID.
+You are now in the Student Menu, and you are asked to enter your Student ID.
    
-   The student Id is supposed in the range of 241-340 based on the data we generated.For example, your student Id is 251,</br> and you enter it.
+The student Id is supposed in the range of 241-340 based on the data we generated.For example, your student Id is 251,</br> and you enter it.
 
-   You wil see a set of options in the Student Menu.
+You wil see a set of options in the Student Menu.
 
 (1）Enter 1 if you want to know what courses you are interested in or have paid for.
 
-   You will see the information about the courses you have completed, are enrolling and are interested in, including the</br> course Id, name, primary topic, secondary topic and course rating.
+   You will see the information about the courses you have completed, are enrolling and are interested in, including the course Id, name, primary topic, secondary topic and course rating.
       
    
 (2) Enter 2 if you want to search the courses within a keyword.
