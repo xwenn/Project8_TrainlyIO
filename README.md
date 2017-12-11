@@ -116,6 +116,29 @@ Now, you have entered the main menu and you will have a set of options to choose
 
       You are now in the Faculty Menu, and you are asked to enter your Faculty Id.
       
-      The student Id is supposed in the range of 21-40 based on the data we generated.For example, your faculty Id is 2, and you enter it.
+      The student Id is supposed in the range of 21-40 based on the data we generated.For example, your faculty Id is 22, and you enter it.
       
       You wil see a set of options in the Faculty Menu.
+      
+      (1) Enter 1 if you want to see the questions raised by students enrolling the courses you instruct.
+      
+      You will see all the questions related to the course you instruct, including the related topic, course name, question title and content, whether it is answered, person who asked it and how many students like it.
+      
+      (2) Enter 2 if you want to get the information about the course instructed by a certain faculty (as well as you).
+      
+      You are asked to enter the faculty email, then it will show the course information of the faculty with this email, including the course name and how many student enroll the course. 
+      
+      If the email address you enter belong to no faculty, it will show "The email doesn’t belong to any faculty".
+      
+      (3) Enter 3 if you want to see the information about all the faculty.
+      
+      You will see the information about every faculty, including his name, number of courses provided by him, the course revenue and which administrator admits him.
+      
+
+3. Enter '3'
+
+      You are now in the Administrator Menu, and you are asked to enter your Administrator Id.
+      
+      The student Id is supposed in the range of 1-10 based on the data we generated.For example, your faculty Id is 2, and you enter it.
+      
+      You wil see a set of options in the Administrator Menu.
