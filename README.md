@@ -49,8 +49,7 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       You wil see a set of options in the Student Menu.
       
-      (1) If you want to have the information about the courses you are interested in or you have paid for, enter 1. 
-      
+      (1) enter 1 if you want to have the information about the courses you are interested in or you have paid for. 
       
       You will see the information about the courses you have completed, are enrolling and are interested in, including the course name, Id, primary topic, secondary topic and course rating.
       
