@@ -142,3 +142,36 @@ Now, you have entered the main menu and you will have a set of options to choose
       The student Id is supposed in the range of 1-10 based on the data we generated.For example, your faculty Id is 2, and you enter it.
       
       You wil see a set of options in the Administrator Menu.
+      
+      (1) Enter 1 if you want to authenticate a faculty.
+      
+      You will be asked to enter the faculty Id. Then you will be asked to enter the finish date and time. You are supposed to write in the format it asks, or it will show Error. 
+      
+      If the faculty has been authenticated, it will show “This faculty has been verified".
+      
+      (2) Enter 2 if you want to authenticate a new administrator.
+      
+      You will be asked to enter the administrator Id. Then you will be asked to enter the finish date and time. You are supposed to write in the format it asks, or it will show Error. 
+      
+      If the administrator has been authenticated, it will show “This administrator has been verified".
+      
+      (3) Enter 3 if you want to see the information about all the faculty.
+      
+      You will see the information about every faculty, including his name, number of courses provided by him, the course revenue and which administrator admits him.
+      
+      (4) Enter 4 if you want to see the information about a certain student.
+      
+      You will be asked to enter the student Id. You will see the payment information about the course the student of this Id has enrolled, including the course name, professor, payment date, completion date, the fee and the payment code. Then it sums the total money the student has spent.
+      
+      If the Id doesn't exist, it will show “Student Id is not valid.”
+
+4. Enter '4'
+
+      Enter 4 if you are new to the program and want to register as a user.
+      
+      You are asked to enter your email, first name, last name, password, phone number, a link to your profile picture, address (including the street, city, country and postal code). Do it step by step as it requires.
+      
+      Then you will see your user Id and student Id.
+      
+      
+
