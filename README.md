@@ -54,24 +54,24 @@ Once in the main menu you will have a set of options to choose from.
 
 1. Enter '1' 
 
-      You are now in the Student Menu, and you are asked to enter your Student Id.
+   You are now in the Student Menu, and you are asked to enter your Student Id.
       
-      The student Id is supposed in the range of 241-340 based on the data we generated.For example, your student Id is 251,   and you enter it.
+   The student Id is supposed in the range of 241-340 based on the data we generated.For example, your student Id is 251,</br> and you enter it.
       
-      You wil see a set of options in the Student Menu.
+   You wil see a set of options in the Student Menu.
       
-      (1） Enter 1 if you want to know what courses you are interested in or have paid for.
+   (1）Enter 1 if you want to know what courses you are interested in or have paid for.
       
-      You will see the information about the courses you have completed, are enrolling and are interested in, including the   course Id, name, primary topic, secondary topic and course rating.
+   You will see the information about the courses you have completed, are enrolling and are interested in, including the</br> course Id, name, primary topic, secondary topic and course rating.
       
       
-      (2) Enter 2 if you want to search the courses within a keyword.
+   (2) Enter 2 if you want to search the courses within a keyword.
       
-      You will be asked to enter the keyword you want to search.
+   You will be asked to enter the keyword you want to search.
       
-            For example, "java" is what you are interested in. Then just type "java".
+       For example, "java" is what you are interested in. Then just type "java".
             
-            You will see all the courses has the keyword "java", including the course name, instructor offering the course, the course rating and total number of course materials.
+       You will see all the courses has the keyword "java", including the course name, instructor offering the course, the</br> course rating and total number of course materials.
             
       If there is no course with the keyword you enter, it will show “Search returned empty” and return to the student  menu.
 
