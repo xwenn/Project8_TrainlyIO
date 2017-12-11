@@ -107,11 +107,11 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       You will see the certifications of all the completed courses, listing the course name, instructor, date and time of completion.
       
-      
       (10) Enter p if you want to return to the Main Menu.
       
       (11) Enter q if you want to quit the program.
       
+
 
 2. Enter '2'
 
@@ -139,6 +139,7 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       (5) Enter q if you want to quit the program.
       
+
 
 3. Enter '3'
 
@@ -173,6 +174,8 @@ Now, you have entered the main menu and you will have a set of options to choose
       (5) Enter p if you want to return to the Main Menu.
       
       (6) Enter q if you want to quit the program.
+
+
 
 4. Enter '4'
 
