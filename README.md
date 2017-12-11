@@ -49,12 +49,44 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       You wil see a set of options in the Student Menu.
       
-      (1) If you enter 1, you will see the information about the courses you have completed, are enrolling and are interested in, including the course name, Id, primary topic, secondary topic and course rating.
+      (1) If you want to have the information about the courses you are interested in or you have paid for, enter 1. 
+      
+      You will see the information about the courses you have completed, are enrolling and are interested in, including the course name, Id, primary topic, secondary topic and course rating.
       
-      (2) If you enter 2, you will be asked to enter the keyword you want to search.
+      (2) If you want to search the courses within a keyword, enter 2. 
+      
+      You will be asked to enter the keyword you want to search.
       
             For example, "java" is what you are interested in. Then just type "java".
             
-            You will see all the courses has the keyword "java", including the course name, instructor offering the course, the course rating and total number of course materials.
+            You will see all the courses has the keyword "java", including the course name, instructor offering the course, the course          rating and total number of course materials.
             
-            However, if there is no course with the keyword you enter, it will show “Search returned empty” and return to the student menu.
+            However, if there is no course with the keyword you enter, it will show “Search returned empty” and return to the student     menu.
+
+      (3) If you want to enroll a course, enter 3. 
+      
+      You will be asked to enter the course Id.
+      
+            For example, you would like to join "JavaScript: Understanding the Weird Parts" according to what you have just search, enter 3 (the course Id of the course). Then you will be asked to enter your payment code, entering date and time. You are supposed to write in the format it asks, or it will show Error.
+            
+      If you enter the course you have enrolled, it will show "You have enrolled in this course”. 
+            
+      The course Id you are supposed to enter is in the range of 1-27 based on the data we generated.
+            
+      (4)  If you want to take a look at the course materials of a certain course you are currently enrolling, enter 4. 
+      
+      You will be asked to enter the course Id. It should be course you have enrolled according to the result 1.
+      
+      You will see the information of the all course materials related to this course, including course Id, course name, and material type as well as the description.
+      
+      If you enter the course Id you haven't enrolled or have finished, it turns out that ‘You are not enrolled in this course”.
+      
+     (5)If you have just finished the a course material, you can enter 5 to record it. 
+     
+     You will be asked to enter the course Id, then the date and time.Then you will be asked to enter the finish date and time. You are supposed to write in the format it asks, or it will show Error.
+     
+     If you enter the course Id you have finished, it will show ‘You have finish all materials”.
+     
+     If you enter the course Id you haven’t enrolled, it will show ‘You are not enrolled in this course”.
+ 
+     
