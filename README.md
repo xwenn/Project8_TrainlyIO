@@ -60,12 +60,12 @@ Once in the main menu you will have a set of options to choose from.
 
    You wil see a set of options in the Student Menu.
 
-⋅(1）Enter 1 if you want to know what courses you are interested in or have paid for.
+(1）Enter 1 if you want to know what courses you are interested in or have paid for.
 
    You will see the information about the courses you have completed, are enrolling and are interested in, including the</br> course Id, name, primary topic, secondary topic and course rating.
       
    
-⋅(2) Enter 2 if you want to search the courses within a keyword.
+(2) Enter 2 if you want to search the courses within a keyword.
       
    You will be asked to enter the keyword you want to search.
    
@@ -75,7 +75,7 @@ Once in the main menu you will have a set of options to choose from.
     
       If there is no course with the keyword you enter, it will show “Search returned empty” and return to the student  menu.
 
-⋅(3) Enter 3 if you want to enroll a course. 
+(3) Enter 3 if you want to enroll a course. 
       
       You will be asked to enter the course Id you want to enroll.
      
@@ -86,7 +86,7 @@ Once in the main menu you will have a set of options to choose from.
    
       The course Id you are supposed to enter is in the range of 1-27 based on the data we generated.
 
-⋅(4) Enter 4 if you want to take a look at the course materials of a certain course you are currently enrolling. 
+(4) Enter 4 if you want to take a look at the course materials of a certain course you are currently enrolling. 
       
       You will be asked to enter the course Id. It should be course you have enrolled according to the result 1.
     
@@ -94,7 +94,7 @@ Once in the main menu you will have a set of options to choose from.
     
       If you enter the course Id you haven't enrolled or have finished, it turns out that ‘You are not enrolled in this course”.
     
-⋅(5) Enter 5 if you have just finished the a course material and want to record it. 
+(5) Enter 5 if you have just finished the a course material and want to record it. 
      
      You will be asked to enter the course Id, then the date and time.Then you will be asked to enter the finish date and time. You are supposed to write in the format it asks, or it will show Error.
    
@@ -102,27 +102,27 @@ Once in the main menu you will have a set of options to choose from.
    
      If you enter the course Id you haven’t enrolled, it will show ‘You are not enrolled in this course”.
  
-⋅(6) Enter 6 if you want to get the information about the course material of the most popular course among the courses you are interested in.
+(6) Enter 6 if you want to get the information about the course material of the most popular course among the courses you are interested in.
       
       You will be asked to enter the keyword of what you like, then it will show the course name, course id, course materail type and description.
     
-⋅(7) Enter 7 if you want to view the information about all the courses provided.
+(7) Enter 7 if you want to view the information about all the courses provided.
       
       You will see the course Id, name, instructor, primary topic, the number of students who enroll in the course, and the number of students who are interested in the course. It is shown in the order of the number of students who enroll in the course.
     
-⋅(8) Enter 8 if want to know your payment information. 
+(8) Enter 8 if want to know your payment information. 
       
       It will show the payment information about the courses you have enrolled, including the course name, instructor, payment date, completion date, the fee and the payment code. Then it sums the total money you have spent.
       
     
-⋅(9) Enter 9 if you just want to see the certifications of the completed courses.
+(9) Enter 9 if you just want to see the certifications of the completed courses.
       
       You will see the certifications of all the completed courses, listing the course name, instructor, date and time of completion.
       
    
-⋅(10) Enter p if you want to return to the Main Menu.
+(10) Enter p if you want to return to the Main Menu.
       
-⋅(11) Enter q if you want to quit the program.
+(11) Enter q if you want to quit the program.
       
 
 
@@ -134,23 +134,23 @@ The student Id is supposed in the range of 21-40 based on the data we generated.
    
 You wil see a set of options in the Faculty Menu.
    
-⋅(1) Enter 1 if you want to see the questions raised by students enrolling the courses you instruct.
+(1) Enter 1 if you want to see the questions raised by students enrolling the courses you instruct.
       
       You will see all the questions related to the course you instruct, including the related topic, course name, question title and content, whether it is answered, person who asked it and how many students like it.
     
-⋅(2) Enter 2 if you want to get the information about the course instructed by a certain faculty (as well as you).
+(2) Enter 2 if you want to get the information about the course instructed by a certain faculty (as well as you).
       
       You are asked to enter the faculty email, then it will show the course information of the faculty with this email, including the course name and how many student enroll the course. 
    
       If the email address you enter belong to no faculty, it will show "The email doesn’t belong to any faculty".
    
-⋅(3) Enter 3 if you want to see the information about all the faculty.
+(3) Enter 3 if you want to see the information about all the faculty.
       
       You will see the information about every faculty, including his name, number of courses provided by him, the course revenue and which administrator admits him.
    
-⋅(4) Enter p if you want to return to the Main Menu.
+(4) Enter p if you want to return to the Main Menu.
       
-⋅(5) Enter q if you want to quit the program.
+(5) Enter q if you want to quit the program.
       
 
 
@@ -162,31 +162,31 @@ You wil see a set of options in the Faculty Menu.
     
  You wil see a set of options in the Administrator Menu.
     
-⋅(1) Enter 1 if you want to authenticate a faculty.
+(1) Enter 1 if you want to authenticate a faculty.
       
       You will be asked to enter the faculty Id. Then you will be asked to enter the finish date and time. You are supposed to write in the format it asks, or it will show Error. 
    
       If the faculty has been authenticated, it will show “This faculty has been verified".
    
-⋅(2) Enter 2 if you want to authenticate a new administrator.
+(2) Enter 2 if you want to authenticate a new administrator.
       
       You will be asked to enter the administrator Id. Then you will be asked to enter the finish date and time. You are supposed to write in the format it asks, or it will show Error. 
    
       If the administrator has been authenticated, it will show “This administrator has been verified".
    
-⋅(3) Enter 3 if you want to see the information about all the faculty.
+(3) Enter 3 if you want to see the information about all the faculty.
       
       You will see the information about every faculty, including his name, number of courses provided by him, the course revenue and which administrator admits him.
    
-⋅(4) Enter 4 if you want to see the information about a certain student.
+(4) Enter 4 if you want to see the information about a certain student.
       
       You will be asked to enter the student Id. You will see the payment information about the course the student of this Id has enrolled, including the course name, professor, payment date, completion date, the fee and the payment code. Then it sums the total money the student has spent.
 
       If the Id doesn't exist, it will show “Student Id is not valid.”
 
-⋅(5) Enter p if you want to return to the Main Menu.
+(5) Enter p if you want to return to the Main Menu.
       
-⋅(6) Enter q if you want to quit the program.
+(6) Enter q if you want to quit the program.
 
 
 
