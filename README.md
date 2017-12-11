@@ -6,10 +6,11 @@ This project is intended for potential investors in the Trainly.io App Store, as
 ---
 ## Video
 
-You can see the video about how to start the program at the website:
+Below is a link to a setup/installation video to help you get Trainly up and running:
+https://youtu.be/q9cBAFkdLU4
 
-A "demo" video showing input/output examples of tasks at the websit:
-
+A "demo" video showing input/output examples and the functionality of Trainly:
+https://youtu.be/CWEGt-90AEA
 
 ## Functionalities
 
