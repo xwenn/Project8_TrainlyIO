@@ -56,7 +56,7 @@ Once in the main menu you will have a set of options to choose from.
       
 You are now in the Student Menu, and you are asked to enter your Student ID.
    
-The student Id is supposed in the range of 241-340 based on the data we generated.For example, your student Id is 251,</br> and you enter it.
+The student Id is supposed in the range of 241-340 based on the data we generated.For example, your student Id is 251, and you enter it.
 
 You wil see a set of options in the Student Menu.
 
