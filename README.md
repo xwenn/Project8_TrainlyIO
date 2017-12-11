@@ -10,7 +10,7 @@ A link to a setup/installation video to help you get Trainly up and running:
 https://youtu.be/q9cBAFkdLU4
 
 A link to a "demo" video showing input/output examples and the functionality of Trainly:  
-https://youtu.be/CWEGt-90AEA 
+https://youtu.be/sbfrm-AMeQQ
 
 ## Functionalities
 
