@@ -49,11 +49,11 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       You wil see a set of options in the Student Menu.
       
-      (1)If you want to have the information about the courses you are interested in or you have paid for. 
+      (1) Enter 1 if you want to have the information about the courses you are interested in or you have paid for. 
       
       You will see the information about the courses you have completed, are enrolling and are interested in, including the course name, Id, primary topic, secondary topic and course rating.
       
-      (2) If you want to search the courses within a keyword, Press 2. 
+      (2) Enter 2 if you want to search the courses within a keyword. 
       
       You will be asked to enter the keyword you want to search.
       
@@ -63,7 +63,7 @@ Now, you have entered the main menu and you will have a set of options to choose
             
             However, if there is no course with the keyword you enter, it will show “Search returned empty” and return to the student     menu.
 
-      (3) If you want to enroll a course, enter 3. 
+      (3) Enter 3 if you want to enroll a course. 
       
       You will be asked to enter the course Id.
       
@@ -73,7 +73,7 @@ Now, you have entered the main menu and you will have a set of options to choose
             
       The course Id you are supposed to enter is in the range of 1-27 based on the data we generated.
             
-      (4)  If you want to take a look at the course materials of a certain course you are currently enrolling, enter 4. 
+      (4) Enter 4 if you want to take a look at the course materials of a certain course you are currently enrolling. 
       
       You will be asked to enter the course Id. It should be course you have enrolled according to the result 1.
       
@@ -81,7 +81,7 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       If you enter the course Id you haven't enrolled or have finished, it turns out that ‘You are not enrolled in this course”.
       
-     (5)If you have just finished the a course material, you can enter 5 to record it. 
+     (5) Enter 5 if you have just finished the a course material and want to record it. 
      
      You will be asked to enter the course Id, then the date and time.Then you will be asked to enter the finish date and time. You are supposed to write in the format it asks, or it will show Error.
      
