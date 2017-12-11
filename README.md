@@ -51,6 +51,7 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       (1) If you want to have the information about the courses you are interested in or you have paid for, enter 1. 
       
+      
       You will see the information about the courses you have completed, are enrolling and are interested in, including the course name, Id, primary topic, secondary topic and course rating.
       
       (2) If you want to search the courses within a keyword, enter 2. 
