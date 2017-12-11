@@ -101,6 +101,7 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       (8) Enter 8 if want to know your payment information. 
       
+      
       It will show the payment information about the courses you have enrolled, including the course name, professor, payment date, completion date, the fee and the payment code. Then it sums the total money you have spent.
      
      
@@ -109,9 +110,9 @@ Now, you have entered the main menu and you will have a set of options to choose
       You will see the certifications of all the completed courses, listing the course name, instructor, date and time of completion.
       
       
-      (10) Enter 10 if you want to return to the Main Menu.
+      (10) Enter p if you want to return to the Main Menu.
       
-      (11) Enter 11 if you want to quit the program.
+      (11) Enter q if you want to quit the program.
       
 
 2. Enter '2'
@@ -135,6 +136,10 @@ Now, you have entered the main menu and you will have a set of options to choose
       (3) Enter 3 if you want to see the information about all the faculty.
       
       You will see the information about every faculty, including his name, number of courses provided by him, the course revenue and which administrator admits him.
+      
+      (4) Enter p if you want to return to the Main Menu.
+      
+      (5) Enter q if you want to quit the program.
       
 
 3. Enter '3'
@@ -166,6 +171,10 @@ Now, you have entered the main menu and you will have a set of options to choose
       You will be asked to enter the student Id. You will see the payment information about the course the student of this Id has enrolled, including the course name, professor, payment date, completion date, the fee and the payment code. Then it sums the total money the student has spent.
       
       If the Id doesn't exist, it will show “Student Id is not valid.”
+      
+      (5) Enter p if you want to return to the Main Menu.
+      
+      (6) Enter q if you want to quit the program.
 
 4. Enter '4'
 
