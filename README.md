@@ -89,4 +89,22 @@ Now, you have entered the main menu and you will have a set of options to choose
      
      If you enter the course Id you haven’t enrolled, it will show ‘You are not enrolled in this course”.
  
+      (6) Enter 6 if you want to get the information about the course material of the most popular course among the courses you are interested in.
+      
+      You will be asked to enter the keyword of what you like, then it will show the course name, course id, course materail type and description.
+      
+      (7) Enter 7 if you want to view the information about all the courses provided.
+      
+      You will see the course Id, name, instructor, primary topic, the number of students who enroll in the course, and the number of students who are interested in the course. It is shown in the order of the number of students who enroll in the course.
+      
+      (8) Enter 8 if want to know your payment information. 
+      It will show the payment information about the courses you have enrolled, including the course name, professor, payment date, completion date, the fee and the payment code. Then it sums the total money you have spent.
      
+      (9) Enter 9 if you just want to see the certifications of the completed courses.
+      
+      You will see the certifications of all the completed courses, listing the course name, instructor, date and time of completion.
+      
+      (10) Enter 10 if you want to return to the Main Menu.
+      
+      (11) Enter 11 if you want to quit the program.
+      
