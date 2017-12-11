@@ -4,6 +4,11 @@
 This project is intended for potential investors in the Trainly.io App Store, as well as for those interested in the database development process of a technology startup company. The code is compatible with Java and the system can just run in the terminal.
 
 ---
+## Video
+
+You can see the video about how to start the program at the website:
+A "demo" video showing input/output examples of tasks at the websit:
+
 
 ## Functionalities
 
@@ -33,3 +38,8 @@ This project is intended for potential investors in the Trainly.io App Store, as
 
 
 ## Run the Main Menu
+
+Now, you have entered the main menu and you will have a set of options to choose.
+
+1. Enter '1'
+  You are now in the Student Menu, and you are asked to enter your Student Id
