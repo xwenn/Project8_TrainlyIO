@@ -52,7 +52,7 @@ Trainly.io utilizes a MySQL-based Relational Database Management System (RDBMS).
 
 Once in the main menu you will have a set of options to choose from.
 
-**1. Enter '1'** 
+**1. Enter "1"** 
 
    You are now in the Student Menu, and you are asked to enter your Student Id.
       
@@ -126,7 +126,7 @@ Once in the main menu you will have a set of options to choose from.
       
 
 
-**2. Enter '2'**
+**2. Enter "2"**
 
       You are now in the Faculty Menu, and you are asked to enter your Faculty Id.
       
@@ -154,7 +154,7 @@ Once in the main menu you will have a set of options to choose from.
       
 
 
-**3. Enter '3'**
+**3. Enter "3"**
 
       You are now in the Administrator Menu, and you are asked to enter your Administrator Id.
       
@@ -190,7 +190,7 @@ Once in the main menu you will have a set of options to choose from.
 
 
 
-**4. Enter '4'**
+**4. Enter "4"**
 
       Enter 4 if you are new to the program and want to register as a user.
       
@@ -200,6 +200,6 @@ Once in the main menu you will have a set of options to choose from.
       
 
 
-**5. Enter 'q'**
+**5. Enter "q"**
       
       Enter q if you want to quit the program.
