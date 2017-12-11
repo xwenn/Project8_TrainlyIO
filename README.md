@@ -59,9 +59,9 @@ Now, you have entered the main menu and you will have a set of options to choose
       
             For example, "java" is what you are interested in. Then just type "java".
             
-            You will see all the courses has the keyword "java", including the course name, instructor offering the course, the course          rating and total number of course materials.
+            You will see all the courses has the keyword "java", including the course name, instructor offering the course, the course rating and total number of course materials.
             
-            However, if there is no course with the keyword you enter, it will show “Search returned empty” and return to the student     menu.
+            However, if there is no course with the keyword you enter, it will show “Search returned empty” and return to the student  menu.
 
       (3) Enter 3 if you want to enroll a course. 
       
@@ -174,6 +174,4 @@ Now, you have entered the main menu and you will have a set of options to choose
       Then you will see your user Id and student Id.
       
       
-Enter 1 if you want to have the information about the courses you are interested in or you have paid for. 
-      
-      You will see the information about the courses you have completed, are enrolling and are interested in, including the course name, Id, primary topic, secondary topic and course rating.
+
