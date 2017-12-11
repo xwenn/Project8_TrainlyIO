@@ -42,4 +42,4 @@ A "demo" video showing input/output examples of tasks at the websit:
 Now, you have entered the main menu and you will have a set of options to choose.
 
 1. Enter '1'
-  You are now in the Student Menu, and you are asked to enter your Student Id
+  You are now in the Student Menu, and you are asked to enter your Student Id.
