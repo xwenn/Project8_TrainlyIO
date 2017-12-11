@@ -47,7 +47,11 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       The student Id is supposed in the range of 241-340 based on the data we generated.For example, your student Id is 251, and you enter it.
       
-      
+      You wil see a set of options in the Student Menu.
+      
+      (1） Enter 1 if you want to know what courses you are interested in or have paid for.
+      
+      You will see the information about the courses you have completed, are enrolling and are interested in, including the course Id, name, primary topic, secondary topic and course rating.
       
       (1) Enter 1 if you want to have the information about the courses you are interested in or you have paid for. 
       
