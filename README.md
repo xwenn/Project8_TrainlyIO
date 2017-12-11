@@ -111,3 +111,11 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       (11) Enter 11 if you want to quit the program.
       
+
+2. Enter '2'
+
+      You are now in the Faculty Menu, and you are asked to enter your Faculty Id.
+      
+      The student Id is supposed in the range of 21-40 based on the data we generated.For example, your faculty Id is 2, and you enter it.
+      
+      You wil see a set of options in the Faculty Menu.
