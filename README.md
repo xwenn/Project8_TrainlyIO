@@ -68,6 +68,7 @@ Now, you have entered the main menu and you will have a set of options to choose
       
       You will be asked to enter the course Id you want to enroll.
      
+     
             For example, you would like to join "JavaScript: Understanding the Weird Parts" according to what you have just search, enter 3 (the course Id of the course). Then you will be asked to enter your payment code, entering date and time. You are supposed to write in the format it asks, or it will show Error.
             
       If you enter the course you have enrolled, it will show "You have enrolled in this course”. 
@@ -76,7 +77,7 @@ Now, you have entered the main menu and you will have a set of options to choose
 
       (4) Enter 4 if you want to take a look at the course materials of a certain course you are currently enrolling. 
       
-      You will be asked to enter the course Id. It should be course you have enrolled according to the result 1.
+      You will be asked to enter the course Id. It should be course you have enrolled according to the result 1.
       
       You will see the information of the all course materials related to this course, including course Id, course name, and material type as well as the description.
       
