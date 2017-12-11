@@ -102,11 +102,7 @@ Now, you have entered the main menu and you will have a set of options to choose
       (8) Enter 8 if want to know your payment information. 
       
       It will show the payment information about the courses you have enrolled, including the course name, instructor, payment date, completion date, the fee and the payment code. Then it sums the total money you have spent.
-      
-      
-      It will show the payment information about the courses you have enrolled, including the course name, professor, payment date, completion date, the fee and the payment code. Then it sums the total money you have spent.
-     
-     
+          
       (9) Enter 9 if you just want to see the certifications of the completed courses.
       
       You will see the certifications of all the completed courses, listing the course name, instructor, date and time of completion.
