@@ -7,11 +7,21 @@ This project is intended for potential investors in the Trainly.io App Store, as
 ## Video
 
 You can see the video about how to start the program at the website:
+
 A "demo" video showing input/output examples of tasks at the websit:
 
 
 ## Functionalities
 
+Trainly.io aims to be the best source for higher education instruction and course management on the web. As development of Trainly.io continues, our goal is to structure the Trainly.io App Store as a collaborative and interactive hub for universities and their faculty, empowering organizations to work with their teaching staff to provide students with a centralized resource for all their online educational needs.
+
+Faculty will be able to list courses available for registration, release course materials, and track student progress and competencies. Using faculty email addresses, faculty will also be able to search for their own courses, those being taught by their colleagues, and view enrollment statistics for each course. 
+
+Students will be able to register for courses, track the completion of course materials, and post questions about course materials, either publicly to their class, or privately to course faculty.  Students can also view their course and account histories, allowing them to keep track of their tuition costs, completed and ongoing courses, and courses they are interested in taking.
+
+The creation of Trainly.io is a response to the stated needs of students and universities for more functional, elegant and flexible educational software than is currently available. 
+
+Trainly.io utilizes a MySQL-based Relational Database Management System (RDBMS).  This decision was made because of the flexibility of MySQL to interface with Web applications and to more readily integrate into existing systems.
 
 
 
