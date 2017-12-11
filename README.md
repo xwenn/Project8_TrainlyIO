@@ -37,20 +37,20 @@ Trainly.io utilizes a MySQL-based Relational Database Management System (RDBMS).
 
 1. Download ```trainly.zip``` file, decompress it, and save it into a certain folder (eg. Downloads)
 
-2. Open the terminal, and navigate to the directory where you saved the file by typing ``cd Downloads ``
+2. Open the terminal, and navigate to the directory where you saved the file by typing ``cd Downloads ``, then press enter.
 
-3. Type ``cd trainly ``
+3. Type ``cd trainly ``, then press enter.
 
-4. Type ``ls``(small character 'L') , then it will show ``trainly           trainly.jar ``
+4. Type ``ls``(small character 'L'), enter, to show the contents of your folder and verify that ``trainly           trainly.jar `` is listed.
 
-5. Type ``jave -jar trainly.jar``,
+5. Type ``java -jar trainly.jar``, then press enter.
 
-6. You are now in the Main Menu
+6. You should now see the main menu, welcome to Trainly.
 
 
 ## Run the Main Menu
 
-Now, you have entered the main menu and you will have a set of options to choose.
+Once in the main menu you will have a set of options to choose from.
 
 1. Enter '1' 
 
