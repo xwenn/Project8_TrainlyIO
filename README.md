@@ -1,7 +1,7 @@
 # Project8_TrainlyIO
 
 
-This project is intended for potential investors in the Trainly.io App Store, as well as for those interested in the database development process of a technology startup company. The code is compatible with Java and the system can just run in the terminal.
+This project is intended for potential investors in the Trainly.io App Store, as well as for those interested in the database development process of a technology startup company. The code is compatible with Java and the system currently runs in the command line.
 
 ---
 ## Video
@@ -33,11 +33,11 @@ Trainly.io utilizes a MySQL-based Relational Database Management System (RDBMS).
 
 ---
 
-## System Built
+## System Build
 
 1. Download ```trainly.zip``` file, decompress it, and save it into a certain folder (eg. Downloads)
 
-2. Open the terminal, type ``cd Downloads ``
+2. Open the terminal, and navigate to the directory where you saved the file by typeing ``cd Downloads ``
 
 3. Type ``cd trainly ``
 
